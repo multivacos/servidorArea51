@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "6173bc4761fe857a6ac7c85f"
+  },
+  "nombre": "Jonatan",
+  "apellidos": "Alvarez",
+  "numDni": "45556666",
+  "direccion": "Alisos 123",
+  "sueldoBase": 3000,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173bc5961fe857a6ac7c862"
+  },
+  "nombre": "Lizbeth",
+  "apellidos": "Hilario  Valle",
+  "numDni": "45678900",
+  "direccion": "alisos 123",
+  "sueldoBase": 3500,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173c05161fe857a6ac7c884"
+  },
+  "nombre": "Fausto",
+  "apellidos": "Alvarez Chavez",
+  "numDni": "09866666",
+  "direccion": "Comas 333",
+  "sueldoBase": 2000,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173c06f61fe857a6ac7c886"
+  },
+  "nombre": "Juan",
+  "apellidos": "Fuentes Escobedo",
+  "numDni": "09524522",
+  "direccion": "Santa anita 333",
+  "sueldoBase": 1000,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173c0a761fe857a6ac7c88c"
+  },
+  "nombre": "Guido",
+  "apellidos": "Hilario Araujo",
+  "numDni": "89777777",
+  "direccion": "Comas 333",
+  "sueldoBase": 2000,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173c0ca61fe857a6ac7c890"
+  },
+  "nombre": "Pamela",
+  "apellidos": "Halario",
+  "numDni": "47999999",
+  "direccion": "Comas 333",
+  "sueldoBase": 500,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173c1ed61fe857a6ac7c8a3"
+  },
+  "nombre": "Juan",
+  "apellidos": "Pérez",
+  "numDni": "56666666",
+  "direccion": "alisos 123",
+  "sueldoBase": 4000,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173c2b361fe857a6ac7c8a6"
+  },
+  "nombre": "Victor Alberto",
+  "apellidos": "Valle Gomez",
+  "numDni": "65777777",
+  "direccion": "alisos 123",
+  "sueldoBase": 1500,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173c2f461fe857a6ac7c8b0"
+  },
+  "nombre": "Maria",
+  "apellidos": "Alvarez",
+  "numDni": "72723222",
+  "direccion": "cajamarca 123",
+  "sueldoBase": 3000,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173c3bc61fe857a6ac7c8b4"
+  },
+  "nombre": "Juan",
+  "apellidos": "Perez Gomes",
+  "numDni": "657777777",
+  "direccion": "alameda 123",
+  "sueldoBase": 1400,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173c3d061fe857a6ac7c8b7"
+  },
+  "nombre": "Juanita",
+  "apellidos": "Ampato",
+  "numDni": "56888888",
+  "direccion": "alisos 490",
+  "sueldoBase": 600,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6173c3ed61fe857a6ac7c8ba"
+  },
+  "nombre": "Roberto",
+  "apellidos": "Sanchez Muñoz",
+  "numDni": "67555555",
+  "direccion": "la calle 56 ",
+  "sueldoBase": 1000,
+  "fechaCreacion": {
+    "$date": "2021-10-23T07:06:15.478Z"
+  },
+  "__v": 0
+}]
